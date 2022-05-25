@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_301\jre\..\bin\javadoc.exe" @options @argfile"
+J:\TstGdam11\target\site\apidocs\allclasses-frame.html = 1653471979940
+J:\TstGdam11\target\site\apidocs\allclasses-noframe.html = 1653471979945
+J:\TstGdam11\target\site\apidocs\argfile = 1653471978656
+J:\TstGdam11\target\site\apidocs\constant-values.html = 1653471979808
+J:\TstGdam11\target\site\apidocs\deprecated-list.html = 1653471979933
+J:\TstGdam11\target\site\apidocs\help-doc.html = 1653471979962
+J:\TstGdam11\target\site\apidocs\index-all.html = 1653471979922
+J:\TstGdam11\target\site\apidocs\index.html = 1653471979950
+J:\TstGdam11\target\site\apidocs\options = 1653471978648
+J:\TstGdam11\target\site\apidocs\overview-frame.html = 1653471979744
+J:\TstGdam11\target\site\apidocs\overview-summary.html = 1653471979956
+J:\TstGdam11\target\site\apidocs\overview-tree.html = 1653471979906
+J:\TstGdam11\target\site\apidocs\package-list = 1653471979738
+J:\TstGdam11\target\site\apidocs\script.js = 1653471979968
+J:\TstGdam11\target\site\apidocs\serialized-form.html = 1653471979827
+J:\TstGdam11\target\site\apidocs\stylesheet.css = 1653377537404
